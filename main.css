@@ -1,0 +1,164 @@
+body{
+    margin: 0; 
+    text-align: center;
+}
+
+
+.background{
+
+    width: 100%;
+    padding-top: 0%;
+
+
+}
+
+.main{
+    display: inline-block;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+    font-style: italic;
+    color: aliceblue;
+  }
+
+  .container {
+    position: absolute;
+    top: 40%;
+    right: 0;
+    margin: 20px;
+width: 15rem;
+height: 20rem;
+
+    padding: 16px;
+    background-color: rosybrown;
+  }  
+
+
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding-right: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: whitesmoke;
+    padding-left: 0%;
+  }
+  
+  .btn{
+
+    background-color: #ef8172;
+  }
+  
+  .btn1{
+
+    background-color: burlywood;
+  }
+  h1{
+      color: red;
+      
+  }
+
+  h3{
+    font-family: 'Montserrat-bold', sans-serif;
+  }
+
+  .btn:hover{
+      opacity: 1;
+  }
+
+  ::placeholder{
+      width: 2rem;
+  }
+
+#features{
+  padding: 7% 15%;
+
+}
+
+.feature-box{
+  text-align: center;
+}
+
+p{
+  color: gray;
+}
+.fas{
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+.far{
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+#container1{
+  padding-top: 1rem;
+  align-items: center;
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 2em;
+  margin-bottom: 5rem;
+  
+}
+.parah{
+  color: white;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+
+.dogpic{
+
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+border-radius: 100%;
+}
+
+.footer{
+  padding-top: 2rem;
+background-color: black;
+  text-align: center;
+  text-emphasis-color: white;
+}
+/*-----------tinder css---*/
+.testimonials{
+
+  width: 100%;
+  border-radius: 100;
+  margin: 20px;
+  background-color: lightcoral;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+h2{
+  font-family: 'Montserrat-bold', sans-serif;
+  color: white;
+}
+
+.pricing-Heading{
+
+  color: #ff4c68;
+}
+
+#pricing{
+
+  
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-bottom: 5rem;
+  padding: 100px;
+}
+.card-header{
+
+  background-color: #ef8172;
+}
